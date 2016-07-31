@@ -1,0 +1,16 @@
+D:\Github_repository\DarioAuguri\DarioAuguri\bin\Debug\DarioAuguri.exe.config
+D:\Github_repository\DarioAuguri\DarioAuguri\bin\Debug\DarioAuguri.exe
+D:\Github_repository\DarioAuguri\DarioAuguri\bin\Debug\DarioAuguri.pdb
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\MainWindow.g.cs
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\App.g.cs
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri_MarkupCompile.cache
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri_MarkupCompile.lref
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\MainWindow.baml
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri.g.resources
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri.Properties.Resources.resources
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri.csproj.GenerateResource.Cache
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri.exe
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri.pdb
+D:\Github_repository\DarioAuguri\DarioAuguri\obj\Debug\DarioAuguri_Content.g.cs
+D:\Github_repository\DarioAuguri\DarioAuguri\bin\Debug\Resources\Tabo.aac
+D:\Github_repository\DarioAuguri\DarioAuguri\bin\Debug\Resources\Nando.aac
