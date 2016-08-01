@@ -33,7 +33,7 @@ namespace DarioAuguri
         public void RiempiLista()
         {
             _path = "Resources/";
-            _searchPattern = "*.aac";
+            _searchPattern = "*.mp3";
             string[] fileEntries = Directory.GetFiles(_path, _searchPattern);
 
             foreach (string fileName in fileEntries)
